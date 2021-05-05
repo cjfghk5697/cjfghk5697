@@ -1,4 +1,4 @@
-<head><h1>Hi, Welcome My Github :)</h1></head>
+<head><h1>Hi, Welcome to My Github :)</h1></head>
 
 ![chulwha's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjfghk5697&show_icons=true&theme=tokyonight)
 <br>
