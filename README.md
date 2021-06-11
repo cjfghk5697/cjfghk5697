@@ -10,4 +10,4 @@
 
 
 	
-IF code in my repositories have problem. plz send problem code for me
+IF code in my repositories have problem. plz send problem code for me(ex: instagram DM, Gmail...)
