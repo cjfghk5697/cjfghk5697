@@ -1,11 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi, Welcome &fontSize=90" />
 
-
-
-<head><h1>Hi, Welcome to My Github :)</h1></head>
-<br>
-
-<h2 align="center">TechStack</h2>	
+<h2 align="center">🔥TechStack🔥</h2>	
 <br>
 
 <p align="center">
@@ -18,9 +13,11 @@
 </p>
 
 <br>
-<h2 align="center">Active</h2>
+<h2 align="center">🔥Active<🔥/h2>
 <p align="center">
   
 ![chulwha's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjfghk5697&show_icons=true&theme=tokyonight)
   
 </p>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcjfghk5697&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
