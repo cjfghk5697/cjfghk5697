@@ -13,7 +13,7 @@
 </p>
 
 <br>
-<h2 align="center">🔥Active🔥</h2>
+<h2 align="center">🔥Github State🔥</h2>
 <p align="center">
   
 ![chulwha's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjfghk5697&show_icons=true&theme=tokyonight)
