@@ -16,8 +16,8 @@
 <br>
 
 <h2 align="center">🔥Competition🔥</h2>
-<code>Ajou</code>
-<a href="https://github.com/cjfghk5697/AjouDeeplearning_Compete">아주대학교 딥러닝 대회 private 4th</a>
+<code>AJOU</code>
+<a href="https://github.com/cjfghk5697/AjouDeeplearning_Compete">아주대학교 딥러닝 대회 </a>Private 4th(Individual)
 <p align="center">
 
 <h2 align="center">🔥Github Stats🔥</h2>
