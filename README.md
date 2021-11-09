@@ -16,7 +16,7 @@
 <br>
 
 <h2 align="center">🔥Competition🔥</h2>
-<h4>Image Classification</h4><br>
+<strong align="center">Image Classification</strong><br>
 <code>AJOU</code><a href="https://github.com/cjfghk5697/AjouDeeplearning_Compete">아주대학교 딥러닝 대회 </a>Private 4th(Individual) -<br>
 <code>DACON</code><a href="https://dacon.io/competitions/official/235805/leaderboard">2021 Ego-Vision 손동작 인식 AI 경진대회 </a>Private 26%(75/357)(Individual) - <br>
 <code>DACON</code><a href="https://dacon.io/competitions/official/235806/overview/description">2021 교통 수(手)신호 동작 인식 AI 경진대회 </a>Private 22%(49/269)(Individual) -<br>
