@@ -1,5 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi, Welcome &fontSize=90" />
-https://www.instagram.com/chulhwa_han/
 <h2 align="center">🔥Introduce🔥</h2>
 "A picture is worth a thousand words" is most favorite proverb. Manytimes Action is better than theory. Although freshman in college, trying best to make something. You can see the project(django, image classification etc..) in github.
 
@@ -21,9 +20,6 @@ https://www.instagram.com/chulhwa_han/
 <h2 align="center">🔥Competition🔥</h2>
 <strong align="center">Image Classification</strong><br>
 <code>AJOU</code><a href="https://github.com/cjfghk5697/AjouDeeplearning_Compete">아주대학교 딥러닝 대회 </a>Private 4th(Individual) -<br>
-<code>DACON</code><a href="https://dacon.io/competitions/official/235805/leaderboard">2021 Ego-Vision 손동작 인식 AI 경진대회 </a>Private 26%(75/357)(Individual) - <br>
-<code>DACON</code><a href="https://dacon.io/competitions/official/235806/overview/description">2021 교통 수(手)신호 동작 인식 AI 경진대회 </a>Private 22%(49/269)(Individual) -<br>
-
 
 
 <h2 align="center">🔥Github Stats🔥</h2>
