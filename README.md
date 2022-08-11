@@ -1,8 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi, Welcome &fontSize=90" />
-<h2 align="center">🔥Introduce🔥</h2>
+<h2 align="center">Introduce</h2>
 "A picture is worth a thousand words" is most favorite proverb. Manytimes Action is better than theory. Although freshman in college, trying best to make something. You can see the project(django, image classification etc..) in github.
 
-<h2 align="center">🔥TechStack🔥</h2>	
+<h2 align="center">TechStack</h2>	
 
 <h3>Language</h3>
  
@@ -17,12 +16,12 @@
 
 <br>
 
-<h2 align="center">🔥Competition🔥</h2>
+<h2 align="center">Competition</h2>
 <strong align="center">Image Classification</strong><br>
 <code>AJOU</code><a href="https://github.com/cjfghk5697/AjouDeeplearning_Compete">아주대학교 딥러닝 대회 </a>Private 4th(Individual) -<br>
 
 
-<h2 align="center">🔥Github Stats🔥</h2>
+<h2 align="center">Github Stats</h2>
   
 ![chulwha's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjfghk5697&show_icons=true&theme=tokyonight)
 
