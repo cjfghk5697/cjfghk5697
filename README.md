@@ -1,5 +1,6 @@
 <h2 align="center">Introduce</h2>
-"A picture is worth a thousand words" is most favorite proverb. Manytimes Action is better than theory. Although freshman in college, trying best to make something. You can see the project(django, image classification etc..) in github.
+"A picture is worth a thousand words" is most favorite proverb. Manytimes Action is better than theory. 
+Trying best to make something. You can see the project(django, image classification etc..) in my github.
 
 <h2 align="center">TechStack</h2>	
 
