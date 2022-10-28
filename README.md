@@ -15,7 +15,8 @@
 
 <h2 align="center">Competition</h2>
 <strong align="center">Image Classification</strong><br>
-<code>AJOU</code><a href="https://github.com/cjfghk5697/AjouDeeplearning_Compete">아주대학교 딥러닝 대회 </a>Private 4th(Individual) -<br>
+<code>AJOU</code><a href="https://github.com/cjfghk5697/AjouDeeplearning_Compete">Ajou university deep learning challenge 2021
+</a>Private 4th(Individual) -<br>
 
 
 <h2 align="center">Github Stats</h2>
