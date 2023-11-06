@@ -18,7 +18,7 @@ My passion is artificial intelligence (AI), especially in the fields of computer
 <strong align="center">Start-Up Competition</strong><br>
 <ul>
 <li><code>Army</code><a href="https://www.youtube.com/watch?v=6UKhfe7kEWY"> Army Start-up Competition 2022 </a> Creative Award </li> <em>Nov 2022 - Mar 2023 · 5 mos</em>
-  <p>Developed CGI product./p>
+  <p>Developed CGI product.</p>
 
 <li><code>Department of Defense</code> <a href="https://www.youtube.com/watch?v=6UKhfe7kEWY/"> Department of Defense Start-up Competition </a> Finalist </li> <em>Mar 2023 - Jun 2023 · 4 mos</em>
 <p>Developed CGI product.</p>
