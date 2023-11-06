@@ -19,14 +19,14 @@ My passion is artificial intelligence (AI), especially in the fields of computer
 <strong align="center">Start-Up Competition</strong><br>
 <ul>
 <li><code>Army</code><a href="https://www.youtube.com/watch?v=6UKhfe7kEWY"> Army Start-up Competition 2022 </a> Creative Award </li> <em>Nov 2022 - Mar 2023 · 5 mos</em>
-  <p>Developed CGI product.</p>
+  <p>Developed CGI Product.</p>
 
 <li><code>Department of Defense</code> <a href="https://www.youtube.com/watch?v=6UKhfe7kEWY/"> Department of Defense Start-up Competition </a> Finalist </li> <em>Mar 2023 - Jun 2023 · 4 mos</em>
-<p>Developed CGI product.</p>
+<p>Developed CGI Product.</p>
 </ul>
 <strong align="center">Image Classification</strong><br>
-<ul><li><code>AJOU</code><a href="https://github.com/cjfghk5697/AjouDeeplearning_Compete">Ajou university deep learning challenge 2021</li> <em>Oct 2021 - Nov 2021 · 2 mos</em>
-</a><p>Private 4th(Individual)</p>
+<ul><li><code>AJOU</code><a href="https://github.com/cjfghk5697/AjouDeeplearning_Compete">Ajou university deep learning challenge 2021</a> Excellence Award</li> <em>Oct 2021 - Nov 2021 · 2 mos</em>
+<p>Improving Classification Models Accuracy</p>
 </ul>
 
 <h2 align="center">Projects</h2>
