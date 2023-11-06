@@ -30,9 +30,10 @@ My passion is artificial intelligence (AI), especially in the fields of computer
 </ul>
 
 <h2 align="center">Research</h2>
+<ul>
   <li><b><a href="https://rose-palm-6f0.notion.site/2023-Research-Papers-7f6f591305a0415cbc4a07736a1dea66?pvs=4">2023 Summary Research Papers(Notion)</li></a></b></li>  <em> Jan 2023 - Nov 2023 · 1 yr </em>
   <p>Summary of artificial intelligence papers (total 131 papers)</p>
-
+</ul>
 <h2 align="center">Projects</h2>
 <ul>
   
