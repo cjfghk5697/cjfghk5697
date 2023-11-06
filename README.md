@@ -29,11 +29,16 @@ My passion is artificial intelligence (AI), especially in the fields of computer
 <p>Improving Classification Models Accuracy</p>
 </ul>
 
+<h2 align="center">Research</h2>
+  <li><b><a href="https://rose-palm-6f0.notion.site/2023-Research-Papers-7f6f591305a0415cbc4a07736a1dea66?pvs=4">2023 Summary Research Papers(Notion)</li></a></b></li>  <em> Jan 2023 - Nov 2023 · 1 yr </em>
+  <p>Summary of artificial intelligence papers (total 131 papers)</p>
+
 <h2 align="center">Projects</h2>
 <ul>
-    <li><b><a href="https://github.com/Sublet-K/Sublet">Sublet Project</li></a></b></li>
-    </li></a></b></li> <em>Aug 2023 - </em>
-    <p>To solve the sublet problems in Korea. We are developing the Sublet site. My role is backend developer and product manager.</p>
+  
+  <li><b><a href="https://github.com/Sublet-K/Sublet">Sublet Project</li></a></b></li>
+  </li></a></b></li> <em>Aug 2023 - </em>
+  <p>To solve the sublet problems in Korea. We are developing the Sublet site. My role is backend developer and product manager.</p>
   
   <p>This repository contains proof-of-concepts for vision models demonstrated in research papers. </p>
   <li><b><a href="https://github.com/cjfghk5697/Pytorch-Research-Paper-Implementations">Pytorch Research Paper Implementations
@@ -51,8 +56,7 @@ My passion is artificial intelligence (AI), especially in the fields of computer
   <p>Data collection site.</p> 
 </ul> <br>
 
-
 <p align="center">
-<a href="https://www.linkedin.com/in/chulwha-han-441370249/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ChulWha Han" height="30" width="40" style="max-width: 100%;">
+<a href="https://www.linkedin.com/in/chulhwa-han-441370249" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ChulWha Han" height="30" width="40" style="max-width: 100%;">
 </a>
 </p>
