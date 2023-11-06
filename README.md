@@ -2,6 +2,7 @@
 <h2 align="center">About</h2>
 
 **CGI | Backend Engineer | Project Management | MLOps** <br>
+At the Defense Integrated Data Center (DIDC), I ensured the security and integrity of the Department of Defense's data and systems as an IT security manager. Along with a team of IT professionals, I monitored, analyzed, and mitigated potential threats, and implemented and updated security policies and protocols. I also managed various IT projects, such as developing and testing new software and hardware solutions, and providing technical support and training to end-users. 
 
 My passion is artificial intelligence (AI), especially in the fields of computer-generated imagery (CGI) and vision. I have demonstrated my skills and creativity in developing and applying AI solutions to image recognition and editing problems, winning several competitions. For instance, I received the Excellence Award at the Ajou University Deep Learning Challenge in 2021 for developing a high-accuracy image recognition AI based on given learning data. I also received the Creativity Award at the Army Start-up Competition in 2023 for creating an image editing AI and presenting a product demonstration video. I am currently pursuing my bachelor's degree in computer science at Ajou University, where I continue to learn and explore new AI techniques and applications.
 
@@ -43,11 +44,11 @@ My passion is artificial intelligence (AI), especially in the fields of computer
 </li></a></b></li> <em>Oct 2022 - </em>
   <p>I shared my code about GAN and Data Analysis with Kaggle and Dacon. Some contents got a good reaction.</p>
   
-  <li><b><a href="https://github.com/cjfghk5697/classification_site">Classification Site</li></a></b></li>
-  <p>  Anyone can change AI simply by changing the model. On top of that, to see why artificial intelligence makes decisions, I used Grad CAM among the XAI techniques.</p> <em> Aug 2022 - Sep 2022 · 2 mos</em>
+  <li><b><a href="https://github.com/cjfghk5697/classification_site">Classification Site</li></a></b></li>  <em> Aug 2022 - Sep 2022 · 2 mos</em>
+  <p>  Anyone can change AI simply by changing the model. On top of that, to see why artificial intelligence makes decisions, I used Grad CAM among the XAI techniques.</p>
 
-  <li><b><a href="https://github.com/cjfghk5697/Collecting_Data_Django">Collecting Data Django</li></a></b></li>
-  <p>Data collection site.</p> <em> Dec 2021 - Feb 2022 · 3 mos</em>
+  <li><b><a href="https://github.com/cjfghk5697/Collecting_Data_Django">Collecting Data Django</li></a></b></li>  <em> Dec 2021 - Feb 2022 · 3 mos</em>
+  <p>Data collection site.</p> 
 </ul> <br>
 
 
