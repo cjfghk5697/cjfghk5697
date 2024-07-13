@@ -1,7 +1,7 @@
 
 <h2 align="center">About</h2>
 
-**CGI | Backend Engineer | Project Management | MLOps** <br>
+**Diffusion | Backend Engineer | Project Management | Start-up** <br>
 Adept in securing critical data and systems, I led a team of IT professionals to safeguard the Department of Defense’s digital assets. My role en‑
 compassed threat mitigation, security policy implementation, and IT project management, with a keen focus on developing and testing advanced
 software and hardware solutions. Fueled by a passion for artificial intelligence, particularly in CGI and vision, my innovative approach to AI applica‑
