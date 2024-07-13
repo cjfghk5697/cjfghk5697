@@ -33,6 +33,10 @@ exploring practical applications, preparing to contribute cutting‑edge solutio
 <ul><li><a href="https://github.com/cjfghk5697/AjouDeeplearning_Compete">Ajou university deep learning challenge 2021 </a> Excellence Award</li> <em>Oct. 2021 - Nov. 2021 </em>
 </ul>
 
+<strong align="center">Algorithm</strong><br>
+<ul><li> <a href="https://www.acmicpc.net/category/1037">2024 APC Div 2</a> Excellence Award</li> <em>Oct. 2021 - Nov. 2021 </em>
+</ul>
+
 <h2 align="center">Research</h2>
 <ul>
   <li><b><a href="https://rose-palm-6f0.notion.site/2023-Research-Papers-7f6f591305a0415cbc4a07736a1dea66?pvs=4">2023 Summary Research Papers(Notion)</li></a></b></li>  <em> Jan 2023 - Nov 2023</em>
@@ -40,13 +44,21 @@ exploring practical applications, preparing to contribute cutting‑edge solutio
 </ul>
 <h2 align="center">Projects</h2>
 <ul>
-  
+    <li><b><a href="https://github.com/Sublet-K/Sublet">HuggingFace KREW</li></a></b></li>
+  </li></a></b></li> <em>Mar. 2024 ‑ PRESENT</em>
+  <p><b>Member</b></p>
+<p>• Skills: Markdown, Contribute, Communication <br>
+• Hugging Face's Transformers and its community offer APIs and tools that facilitate easy downloading and training of state-of-the-art pretrained models. Translating the official documentation into Korean would contribute to the machine learning community, aiding those interested in the field. It would also enhance the Hugging Face community's resources.
+
+Contributed Document:
+[HuggingFace Hub](https://github.com/cjfghk5697/huggingface_hub)</p>
+
   <li><b><a href="https://github.com/Sublet-K/Sublet">Sublet Project</li></a></b></li>
   </li></a></b></li> <em>Aug. 2023 ‑ PRESENT</em>
   <p><b>BACKEND DEVELOPER, PROJECT LEADER</b></p>
 <p>• Skills: Prisma, MongoDB, Figma, Typescript <br>
 • Spearheaded the development of a Sublet site aimed at addressing subletting issues in Korea, taking on the roles of a backend developer and
-product manager to streamline and innovate rental solutions.></p>
+product manager to streamline and innovate rental solutions.</p>
 
   <li><b><a href="https://github.com/cjfghk5697/Pytorch-Research-Paper-Implementations">Pytorch Research Paper Implementations and Review
 </li></a></b></li> <em>Nov. 2022 ‑ Present</em>
