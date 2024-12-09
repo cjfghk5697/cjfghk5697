@@ -1,13 +1,7 @@
-
 <h2 align="center">About</h2>
 
-**Diffusion | Backend Engineer | Project Management | Start-up** <br>
-Adept in securing critical data and systems, I led a team of IT professionals to safeguard the Department of Defense’s digital assets. My role en‑
-compassed threat mitigation, security policy implementation, and IT project management, with a keen focus on developing and testing advanced
-software and hardware solutions. Fueled by a passion for artificial intelligence, particularly in CGI and vision, my innovative approach to AI applica‑
-tions has been recognized with prestigious awards, including the Excellence Award at Ajou University Deep Learning Challenge and the Creativity
-Award at the Army Start‑up Competition. As a Computer Science undergraduate at Ajou University, dedicated to mastering AI techniques and
-exploring practical applications, preparing to contribute cutting‑edge solutions in technology‑driven environments.
+**Diffusion | Backend Engineer | Project Management | AI Enthusiast | Start-up Leader** <br>
+Driven by a passion for artificial intelligence and innovative technologies, I have actively contributed to the AI community through open-source projects, such as translating Hugging Face Transformers documentation into Korean, implementing authentication check APIs, and optimizing models through GGUF quantization. As CEO of itHome, I spearheaded the development of O2O Prop Tech solutions for room matching and analysis tailored to foreign clients, while leading the design and development of user-centric websites to enhance platform functionality and customer satisfaction. My innovative approach to AI applications, particularly in CGI and vision, has been recognized with prestigious awards, including the Excellence Award at Ajou University Deep Learning Challenge and the Creativity Award at the Army Start-up Competition. Additionally, I have experience in securing critical data and systems, implementing security policies, and managing IT infrastructure to safeguard digital assets. As a Computer Science undergraduate at Ajou University, I am committed to mastering AI techniques and applying them to dynamic, technology-driven environments.
 
 
 <h2 align="center">Experience</h2>
