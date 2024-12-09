@@ -20,21 +20,50 @@ exploring practical applications, preparing to contribute cutting‑edge solutio
 
   </p>
 </ul> <br>
+<ul>
+  <li><b>Hugging Face</b></li>
+  <b>Contributor</b><br>
+  <em>Feb 2024 - Present</em>
+  <p>
+    • Translated official Hugging Face Transformers documentation into Korean, enhancing accessibility for the Korean machine learning community.<br>
+    • Developed and implemented an authentication check API and GGUF quantization to improve model efficiency and platform security.<br>
+    • Identified and resolved quantization-related issues, and organized error files to streamline troubleshooting and enhance overall system reliability.
+  </p>
+</ul>
+<br>
 
+<ul>
+  <li><b>잇홈(ItHome)</b></li>
+  <b>CEO</b><br>
+  <em>Sep 2024 - Present</em>
+  <p>
+    • Developed O2O Prop Tech solutions focused on room matching and analysis for foreign clients.<br>
+    • Led the design and development of the company’s website, improving user experience and platform functionality.<br>
+    • Implemented data-driven strategies to optimize property matching processes and enhance customer satisfaction.
+  </p>
+</ul>
+<br>
 <h2 align="center">Honors & awards</h2>
 <strong align="center">Start-Up Competition</strong><br>
 <ul>
 <li><a href="https://www.youtube.com/watch?v=6UKhfe7kEWY"> Army Start-up Competition 2022 </a> Creative Award </li> <em>Nov. 2022 - Mar. 2023</em>
 
 <li> <a href="https://www.youtube.com/watch?v=6UKhfe7kEWY/"> Department of Defense Start-up Competition </a> Finalist </li> <em>Mar. 2023 - Jun. 2023</em>
+<li> <a href="https://github.com/Sublet-K"> IP Conference </a> Excellence Award </li> <em> Nov. 2024</em> 
 </ul>
 
+
+<strong align="center">Open Source Contribution(AI)</strong><br>
+<ul><li><a href="https://github.com/huggingface/transformers">OSSCA</a> Special Award</li> <em>Nov. 2024</em>
+</ul>
+<ul><li><a href="https://huggingface.co/spaces/Wauplin/huggingface_hub/discussions/8">HuggingFace Significant Contributor</a> Siginficant Contributor 4 times</li> <em>Dec. 2024</em>
+</ul>
 <strong align="center">Image Classification</strong><br>
 <ul><li><a href="https://github.com/cjfghk5697/AjouDeeplearning_Compete">Ajou university deep learning challenge 2021 </a> Excellence Award</li> <em>Oct. 2021 - Nov. 2021 </em>
 </ul>
 
 <strong align="center">Algorithm</strong><br>
-<ul><li> <a href="https://www.acmicpc.net/category/1037">2024 APC Div 2</a> Excellence Award</li> <em>Oct. 2021 - Nov. 2021 </em>
+<ul><li> <a href="https://www.acmicpc.net/category/1037">2024 APC</a> Excellence Award</li> <em>Oct. 2021 - Nov. 2021 </em>
 </ul>
 
 <h2 align="center">Research</h2>
@@ -48,10 +77,10 @@ exploring practical applications, preparing to contribute cutting‑edge solutio
   </li></a></b></li> <em>Mar. 2024 ‑ PRESENT</em>
   <p><b>Member</b></p>
 <p>• Skills: Markdown, Contribute, Communication <br>
-• Hugging Face's Transformers and its community offer APIs and tools that facilitate easy downloading and training of state-of-the-art pretrained models. Translating the official documentation into Korean would contribute to the machine learning community, aiding those interested in the field. It would also enhance the Hugging Face community's resources.
+Translated official Hugging Face Transformers documentation into Korean, enhancing accessibility for the Korean machine learning community. Developed and implemented an authentication check API and GGUF quantization to improve model efficiency and platform security. Identified and resolved quantization-related issues, and organized error files to streamline troubleshooting and enhance overall system reliability
 
 Contributed Document:
-[HuggingFace Hub](https://github.com/cjfghk5697/huggingface_hub)</p>
+[HuggingFace Hub](https://github.com/cjfghk5697/huggingface_hub), [HuggingFace Transformer](https://github.com/cjfghk5697/transformers)</p>
 
   <li><b><a href="https://github.com/Sublet-K/Sublet">Sublet Project</li></a></b></li>
   </li></a></b></li> <em>Aug. 2023 ‑ PRESENT</em>
